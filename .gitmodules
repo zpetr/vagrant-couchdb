@@ -1,0 +1,4 @@
+[submodule "puppet/modules/couchdb"]
+	path = puppet/modules/couchdb
+	url = https://github.com/zpetr/puppet-couchdb.git
+
